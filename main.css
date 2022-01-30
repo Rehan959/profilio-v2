@@ -1,0 +1,13 @@
+html{
+    background-color: #191919;
+ color: white;
+}
+
+nav, a,label{
+color: #FFF8F3;
+}
+
+
+nav >  a{
+margin: 5px;
+}
