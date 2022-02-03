@@ -1,13 +1,14 @@
-html{
-    background-color: #191919;
- color: white;
+html {
+  background-color: #191919;
+  color: white;
 }
 
-nav, a,label{
-color: #FFF8F3;
+nav,
+a,
+label {
+  color: #fff8f3;
 }
 
-
-nav >  a{
-margin: 5px;
+nav > a {
+  margin: 5px;
 }
